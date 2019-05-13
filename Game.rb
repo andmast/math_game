@@ -1,5 +1,5 @@
 require './player'
-require './Questions'
+require './questions'
 
 class Game
   def initialize
